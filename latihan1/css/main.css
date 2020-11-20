@@ -1,0 +1,57 @@
+body {
+  font-family: "Courier New";
+  font-size: 30px;
+}
+
+.header {
+  width: 500px;
+  height: auto;
+  background: #f18c8e;
+  padding: 20px 20px 30px 20px;
+  border-radius: 5px;
+  color: #000000;
+}
+
+.title {
+  text-align: center;
+  color: #eee;
+  font-weight: 1000px;
+}
+
+.bil {
+  width: 300px;
+  margin: 10px;
+  border: none;
+  font-size: 14pt;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.oprs {
+  font-size: 16pt;
+  border: none;
+  width: 150px;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.header.tombol {
+  font-size: 16pt;
+  border: none;
+  width: 150px;
+  margin: 5px;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 17pt;
+}
+
+.hasil {
+  width: 280px;
+  margin: 10px;
+  border: none;
+  font-size: 14pt;
+  border-radius: 5px;
+  padding: 20px;
+}
+/*# sourceMappingURL=main.css.map */
