@@ -1,0 +1,21 @@
+{
+    "biodata" : {
+        "nama" : "Dwiki Agus Saputra",
+        "jenis_kelamin" : "Laki-laki",
+        "umur"  : "20th",
+        "saudara" : {
+            "adik1" : "Shinta",
+            "adik2" : "Alviando"
+        },
+        "orangtua" : {
+            "bapak" : "Suwondo",
+            "ibu"   : "Keti"
+        },
+        "hoby" : "Sholawatan",
+        "alamat" : {
+            "desa" : "kertosari",
+            "kecamatan" : "Tanjungsari",
+            "kabupaten" : "Lampung Selatan"
+        }
+    }
+}
